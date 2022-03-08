@@ -1,3 +1,7 @@
+#Iseseisevtöö 3
+#Lauri Laanesoo
+#08.03.2022
+
 #fail = open("rebased.txt", encoding="UTF-8")
 #vastuvõetud = []
 #
