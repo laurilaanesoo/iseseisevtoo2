@@ -1,3 +1,8 @@
+#Iseseisevtöö 2
+#Lauri Laanesoo
+
+
+
 #Äratus
 
 aratus = int(input("Mitu korda äratus heliseb?: "))
